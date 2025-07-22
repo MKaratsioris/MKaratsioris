@@ -40,8 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaratsioris&show_icons=true&locale=en&layout=compact" alt="mkaratsioris" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkaratsioris&show_icons=true&locale=en" alt="mkaratsioris" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkaratsioris&" alt="mkaratsioris" /></p>
-
 Created with the help of [Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
