@@ -4,10 +4,7 @@
     Software Developer
   </h4>
   <p style="max-width:600px; margin:auto; color:#555;">
-    A software developer from Greece, based in Prague (Czech Republic).
-  </p>
-  <p style="max-width:600px; margin:auto; color:#555;">
-    Passionate about mentoring and continuous learning.
+    Originally from the beautiful island of Creta (Greece), currently based in Prague (Czech Republic). Passionate about building scalable software, mentoring, and continuous learning.
   </p>
 </div>
 
