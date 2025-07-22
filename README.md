@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkaratsioris" alt="mkaratsioris" /></a> </p>
 
-- 🔭 I’m currently working on [a social media app](https://github.com/MKaratsioris/mate)
+- 🔭 I’m currently working on [codemanufaktur s.r.o.](https://www.codemanufaktur.cz/)
+
+- 🌱 I’m currently working on [a social media app](https://github.com/MKaratsioris/mate)
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algorithms**
 
@@ -16,6 +18,8 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **mkaratsioris@yahoo.com**
+
+- ⚡ Fun fact - When I'm not writing code, I'm dancing tango — I'm a professional Argentine Tango dancer and teacher.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
