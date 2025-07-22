@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkaratsioris&" alt="mkaratsioris" /></p>
 
-<p>Created with the help of [Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).</p>
+Created with the help of [Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
