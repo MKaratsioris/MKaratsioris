@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [codemanufaktur s.r.o.](https://www.codemanufaktur.cz/)
 
-- 🌱 I’m currently working on [a social media app](https://github.com/MKaratsioris/mate)
+- 🌱 In my free time, I’m building a [social media app](https://github.com/MKaratsioris/mate)
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algorithms**
 
