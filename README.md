@@ -4,7 +4,8 @@
     Software Developer
   </h4>
   <p style="max-width:600px; margin:auto; color:#555;">
-    Originally from the beautiful island of Creta (Greece), currently based in Prague (Czech Republic). Passionate about building scalable software, mentoring, and continuous learning.
+    Originally from the beautiful island of Creta (Greece), currently based in Prague (Czech Republic). <br/>
+    Passionate about building scalable software, mentoring, and continuous learning.
   </p>
 </div>
 
