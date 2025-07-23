@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img style="width: 10rem; border-radius: 2rem;" src="/resources/my-avatar.png" alt="My avatar">
+    <img style="width: 10rem; border-radius: 50%;" src="/resources/my-avatar.png" alt="My avatar">
 </div>
 
 <div align="center">
