@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+    <img style="width: 20rem; border-radius: 50%; margin: 1rem;" src="/resources/my-avatar.png" alt="My avatar">
 </div>
 
 <div align="center">
@@ -36,6 +36,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis karatsioris" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+    <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+</div>
 
 <h3 align="center">Languages</h3>
 <p align="center">
