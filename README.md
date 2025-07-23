@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algorithms and Design Patterns**
 
-- 👯 I’m looking to collaborate on **open source projects in Python or Golang**
+- 👯 I’m looking to collaborate on **open source projects in Python**
 
 - 👨‍💻 All of my projects are available at [michaliskaratsioris.com](michaliskaratsioris.com)
 
