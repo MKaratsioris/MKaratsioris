@@ -37,6 +37,8 @@
 <a href="https://linkedin.com/in/michalis karatsioris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis karatsioris" height="30" width="40" /></a>
 </p>
 
+<a href="./docs/CV_Karatsioris_Michalis_2025.pdf" class="btn" download="Karatsioris_Michalis_CV.pdf">Download CV</a>
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="Python" width="40" height="40"/> </a> 
