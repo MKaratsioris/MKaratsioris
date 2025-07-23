@@ -1,3 +1,8 @@
+
+<div align="center">
+    <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+</div>
+
 <div align="center">
   <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hi 👋, I'm Michalis</h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
@@ -31,10 +36,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/michalis karatsioris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis karatsioris" height="30" width="40" /></a>
 </p>
-
-<div align="center">
-    <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
