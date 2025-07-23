@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hi 👋, I'm <a href="./docs/CV_Karatsioris_Michalis_2025.pdf" class="btn" download="Karatsioris_Michalis_CV.pdf">Michalis</a></h1>
+  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hi 👋, I'm <a href="/resources/CV_Karatsioris_Michalis_2025.pdf" class="btn" download="Karatsioris_Michalis_CV.pdf">Michalis</a></h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
     Software Developer | Theoretical Physicist | Tango Dancer
   </h4>
@@ -22,19 +22,19 @@
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algorithms and Design Patterns**
 
-- 👯 I’m looking to collaborate on **open source projects in Python or Golang**
+- 👯 I’m looking to collaborate on **open source projects in Python**
 
 - 👨‍💻 All of my projects are available at [michaliskaratsioris.com](michaliskaratsioris.com)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **mkaratsioris@yahoo.com**
+- 📫 Reach me out in **mkaratsioris@yahoo.com**
 
-- ⚡ Fun fact - When I'm not writing code, I'm dancing tango — I'm a professional Argentine Tango dancer and teacher.
+- ⚡ Fun fact - I'm a professional Argentine Tango dancer and teacher.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/michalis karatsioris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis karatsioris" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis karatsioris" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages</h3>
@@ -83,6 +83,8 @@
   <a href="https://zuul-ci.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zuul-ci/zuul-ci-icon.svg" alt="zuul" title="Zuul" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" title="NGINX" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/de/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="Jira" width="40" height="40"/> </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="Apache Kafka" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="center">Cloud Platform</h3>
