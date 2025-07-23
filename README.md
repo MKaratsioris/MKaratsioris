@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [codemanufaktur s.r.o.](https://www.codemanufaktur.cz/)
 
-- 🌱 In my free time, I’m building a [social media app](https://github.com/MKaratsioris/mate)
+- 🌱 In my free time, I’m building a [social media app](https://github.com/MKaratsioris/mate), cooking or dancing tango
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algorithms and Design Patterns**
 
