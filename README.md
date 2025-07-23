@@ -83,6 +83,8 @@
   <a href="https://zuul-ci.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zuul-ci/zuul-ci-icon.svg" alt="zuul" title="Zuul" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" title="NGINX" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/de/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="Jira" width="40" height="40"/> </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="Apache Kafka" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="center">Cloud Platform</h3>
