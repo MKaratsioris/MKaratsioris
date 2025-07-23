@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hi 👋, I'm <a href="/resources/CV_Karatsioris_Michalis_2025.pdf" class="btn" download="Karatsioris_Michalis_CV.pdf">Michalis</a></h1>
+  <h1 style="font-size: 30em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hi 👋, I'm <a href="/resources/CV_Karatsioris_Michalis_2025.pdf" class="btn" download="Karatsioris_Michalis_CV.pdf">Michalis</a></h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
     Software Developer | Theoretical Physicist | Tango Dancer
   </h4>
