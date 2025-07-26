@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+</div>
+
+---
 
 <div align="center">
     <img style="width: 10rem; border-radius: 50%;" src="/resources/my-avatar.png" alt="My avatar">
@@ -54,25 +59,15 @@
   ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
 ---
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis karatsioris" height="30" width="40" /></a>
-</p>
 
-<div align="center">
-    <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
-</div>
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -135,10 +130,14 @@
   <a href="https://www.microsoft.com/cs-cz/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" title="Microsoft Windows" width="40" height="40"/> </a> 
 </p>
 
+---
+
+<h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaratsioris&show_icons=true&locale=en&layout=compact" alt="mkaratsioris" /></p>
 
-### 🤝🏻 &nbsp;Connect with Me 
+---
 
+<h3 align="center">🤝🏻 Connect with Me</h3>
 <p align="center">
 <a href="https://www.michaliskaratsioris.com/"><img alt="Website" src="https://img.shields.io/badge/website-michaliskaratsioris.com-green"></a>
 <a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-michaliskaratsioris-blue"></a>
