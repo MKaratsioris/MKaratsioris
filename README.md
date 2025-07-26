@@ -76,7 +76,12 @@
 ---
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaratsioris&show_icons=true&locale=en&layout=compact" alt="mkaratsioris" /></p>
+<p align="center">
+    <a href="https://github.com/MKaratsioris">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaratsioris&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+        <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaratsioris&layout=compact&langs_count=8&theme=buefy"/>
+    </a>
+</p>
 
 ---
 
