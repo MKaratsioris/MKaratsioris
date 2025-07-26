@@ -2,8 +2,6 @@
     <img src="/resources/grid-snake.svg" alt="Snake Git" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
 </div>
 
----
-
 <div align="center">
     <img style="width: 10rem; border-radius: 50%;" src="/resources/my-avatar.png" alt="My avatar">
 </div>
@@ -39,12 +37,7 @@
 
 ---
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/julianschwinger)
-
----
-
-### 🛠 &nbsp;Languages and Tools
+<h3 align="center">🛠 Languages and Tools</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -65,9 +58,6 @@
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 ---
-
-
-
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -142,3 +132,9 @@
 <a href="https://www.michaliskaratsioris.com/"><img alt="Website" src="https://img.shields.io/badge/website-michaliskaratsioris.com-green"></a>
 <a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-michaliskaratsioris-blue"></a>
 </p>
+
+---
+
+<h3 align="center">🎧 Spotify Playing</h3>
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/julianschwinger)
