@@ -60,23 +60,18 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache)
+  ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache)
+  ![HiveMQ](https://img.shields.io/badge/-HiveMQ-333333?style=flat&logo=hivemq)
+  ![Mosquitto](https://img.shields.io/badge/-Mosquitto-333333?style=flat&logo=eclipse)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Zuul](https://img.shields.io/badge/-Zuul-333333?style=flat&logo=zuul)
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-  ![Atlassian](https://img.shields.io/badge/-Jira-000000?style=flat&logo=atlassian-jira)  
+  ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=atlassian)  
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
-  ![Windows](https://img.shields.io/badge/-Windows-003366?style=flat&logo=windows)  
+  ![Windows](https://img.shields.io/badge/-Windows-003366?style=flat&logo=microsoft)  
   ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-000000?style=flat&logo=gcp)  
-
----
-
-
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/> </a> 
-
-  <a href="https://www.atlassian.com/de/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="Jira" width="40" height="40"/> </a> 
-  
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="Apache Kafka" width="40" height="40"/> </a> 
-
 
 ---
 
