@@ -137,4 +137,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaratsioris&show_icons=true&locale=en&layout=compact" alt="mkaratsioris" /></p>
 
-<p align="center">Created with the help of <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank" rel="noreferrer">Profile Readme Generator</a>.</p>
+### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+<a href="https://www.michaliskaratsioris.com/"><img alt="Website" src="https://img.shields.io/badge/website-michaliskaratsioris.com-green"></a>
+<a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+</p>
