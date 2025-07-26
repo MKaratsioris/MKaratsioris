@@ -30,7 +30,7 @@
 
 - 📫 Reach me out in **mkaratsioris@yahoo.com**
 
-- ⚡ Fun fact - I'm a professional Argentine Tango dancer and teacher.
+- ⚡ Fun fact - I like dancing Argentine Tango and playing chess.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
