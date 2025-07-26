@@ -58,35 +58,25 @@
   ![InfluxDB](https://img.shields.io/badge/-InfluxDB-333333?style=flat&logo=influxdb)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![Zuul](https://img.shields.io/badge/-Zuul-333333?style=flat&logo=zuul)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+  ![Atlassian](https://img.shields.io/badge/-Jira-000000?style=flat&logo=atlassian-jira)  
+  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-003366?style=flat&logo=windows)  
+  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-000000?style=flat&logo=gcp)  
 
 ---
 
-<h3 align="center">Software Development</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="Docker" width="40" height="40"/> </a> 
+
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" width="40" height="40"/> </a> 
-  <a href="https://zuul-ci.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zuul-ci/zuul-ci-icon.svg" alt="zuul" title="Zuul" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" title="NGINX" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/> </a> 
+
   <a href="https://www.atlassian.com/de/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="Jira" width="40" height="40"/> </a> 
+  
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="Apache Kafka" width="40" height="40"/> </a> 
-</p>
 
-<h3 align="center">Cloud Platform</h3>
-<p align="center">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="Google Cloud Platform" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="center">Operating Systems</h3>
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" title="Linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/cs-cz/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" title="Microsoft Windows" width="40" height="40"/> </a> 
-</p>
 
 ---
 
@@ -95,14 +85,14 @@
 
 ---
 
+<h3 align="center">🎧 Spotify Playing</h3>
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/julianschwinger)
+
+---
+
 <h3 align="center">🤝🏻 Connect with Me</h3>
 <p align="center">
 <a href="https://www.michaliskaratsioris.com/"><img alt="Website" src="https://img.shields.io/badge/website-michaliskaratsioris.com-green"></a>
 <a href="https://www.linkedin.com/in/michalis-karatsioris-06a40722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-michaliskaratsioris-blue"></a>
 </p>
-
----
-
-<h3 align="center">🎧 Spotify Playing</h3>
-
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/julianschwinger)
