@@ -15,17 +15,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mkaratsioris&label=Profile%20views&color=0e75b6&style=flat" alt="mkaratsioris" /> </p>
 
-- 💼 I’m currently working on [codemanufaktur s.r.o.](https://www.codemanufaktur.cz/)
-
 - 🔭 In my free time, I’m building a [social media app](https://github.com/MKaratsioris/mate)
 
-- 🌱 I’m currently learning **Golang, Data Structures and Algorithms and Design Patterns**
+- 🌱 I’m currently learning **Golang, Data Structures and Algorithms, and Design Patterns**
 
 - 👯 I’m looking to collaborate on **open source projects in Python**
 
 - 💬 Ask me about **Python**
 
-- 📫 Reach me out in **mkaratsioris@yahoo.com**
+- 📫 Reach out to me at **mkaratsioris@yahoo.com**
 
 - ⚡ Fun fact - I like dancing Argentine Tango and playing chess.
 
