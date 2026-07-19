@@ -15,9 +15,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mkaratsioris&label=Profile%20views&color=0e75b6&style=flat" alt="mkaratsioris" /> </p>
 
-- 🔭 In my free time, I’m building a [social media app](https://github.com/MKaratsioris/mate)
+- 🔭 I’m currently building a [social media app](https://www.carpeincedo.com/)
 
-- 🌱 I’m currently learning **Golang, Data Structures and Algorithms, and Design Patterns**
+- 🌱 I’m currently going deeper in **Data Structures, Algorithms, Design Patterns, and System Design**
 
 - 👯 I’m looking to collaborate on **open source projects in Python**
 
@@ -34,7 +34,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -50,22 +49,13 @@
   ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=mssql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)   
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![InfluxDB](https://img.shields.io/badge/-InfluxDB-333333?style=flat&logo=influxdb)  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache)
   ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache)
-  ![HiveMQ](https://img.shields.io/badge/-HiveMQ-333333?style=flat&logo=hivemq)
-  ![Mosquitto](https://img.shields.io/badge/-Mosquitto-333333?style=flat&logo=eclipse)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![Zuul](https://img.shields.io/badge/-Zuul-333333?style=flat&logo=zuul)  
-  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Gatling](https://img.shields.io/badge/-Gatling-333333?style=flat&logo=gatling)
-  ![ToxiProxy](https://img.shields.io/badge/-ToxiProxy-333333?style=flat&logo=toxiproxy)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=atlassian)  
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=microsoft)  
