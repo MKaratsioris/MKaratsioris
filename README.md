@@ -55,8 +55,7 @@
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=atlassian)  
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=microsoft)  
-  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=gcp)  
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=microsoft)   
 
 ---
 
